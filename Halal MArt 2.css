@@ -1,0 +1,13 @@
+nav a{
+    cursor: pointer;
+    color: wheat;
+}
+body{
+    background: url(floor-tile.png);
+}
+
+.text-gray-900 {
+    color: #c91616;}
+    header nav a :hover{
+        color: #c91616;
+    }
